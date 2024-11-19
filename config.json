@@ -131,4 +131,8 @@
   "wallet": "0x57327558C930f3BD19943d2d5BE2cF4a6183e37E",
   "frontendName": "gambi.fi"
   }
+    {
+  "wallet": "0x237874A8b09e9a1C5A8f37bfeb6B6f86fBc5D741",
+  "frontendName": "betdefi.io"
+  }
 ]
